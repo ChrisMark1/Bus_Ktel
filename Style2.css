@@ -1,0 +1,189 @@
+#logo{
+	width: 65px;
+    height: 70px;
+    margin-right: 35%;
+    float: left;
+}
+#logo:hover{ opacity: 0.7; }
+
+.headContent{
+     margin-right: 55%;
+     margin-top: 1%;
+     background-color:lightblue;
+}
+.nav{
+	margin-top:20px;
+	height:40px;
+	background:#a7e0ee;
+	width:100%;
+	float:center;
+	font-size:20px;
+	
+	
+}
+.nav ul{
+	margin :0;
+	padding:0;
+}
+.nav ul li{
+	list-style:none;
+}
+.nav ul li a{
+	text-decoration:none;
+	float:left;
+	display:block;
+	padding:10px 20px;
+	color:black;
+}
+.nav ul li a:hover{
+	color:white;
+	
+}
+.p1{
+	font-weight:bold;
+	font-family:callibri;
+	font-size:20px;
+	color :black;
+	background-color:white;
+	
+	
+}
+
+body{
+	
+	width:90%;
+	background-image:url("back.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+	background-size:150%;
+	
+
+}
+h3{
+	font-size:29px;
+	color:red;
+	background-color:white;
+}
+.steps{
+	border-radius:30px;
+	color:white;
+	font-weight:bold;
+	text-align:center;
+	font-size:19px;
+	
+}
+#steps1{
+	background-color:red;
+}
+#row1{
+	width:1300px;
+	height:400px;
+	background-color:lightblue;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+    background-image:url("seats.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	
+	background-position:center;
+	
+}
+#row2{
+	margin-top:10px;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#row5{
+	width:900px;
+	height:500px;
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+fieldset{
+ 
+   border: none ;  
+   float:left;
+   
+}
+
+
+
+
+#bus { 
+     float: center; 
+	 width: 717px; 
+	 height: 300px; 
+	 padding: 5px 90px 0px 0px ;
+	 left: 20px;
+	 margin-top:10%;
+	 background: url(busSeats.jpg)no-repeat 50px 0; 
+	 }
+#bus .trs { 
+      float: right;
+	  
+	  
+	  }
+#bus .trs .checkbox1 { 
+     float: left; 
+	 color:white;  
+	 width: 50px; 
+	 height: 23px; 
+	 margin: 0; 
+	 clear:both;
+	 padding: 11px 0 0 0px; 
+	 border: 0px; 
+	 font-size: 13px; 
+	 }
+
+#bus .trs .checkbox1 label {
+   	  float: center;
+	  display: block; 
+	  width: 20px;
+	  color: #000;
+	  text-align: center; 
+	  font-weight: bold; 
+	  }
+
+.styledButton label:hover{
+	background:rgba(0,0,0,0.1);
+	
+}
+
+.styledButton { 
+      padding: 0; 
+	  text-align: center; 
+	  float: left; 
+	  width: 20px;
+	  font-size: 13px; 
+          color: #000; 
+	  font-weight: bold; 
+	  }
+
+}
+
+
+
+
+
+
+h5{
+	width: 200px;
+    color: lightblue;
+    border-style: solid;
+    border-width: 4px;
+    border-color: lightblue;
+    background-color:lightblue;
+}
+
+footer{
+text-align: right;
+color: black;
+}
+footer a{ text-decoration: none; }
+footer a:hover{ color: lightblue; }
+
